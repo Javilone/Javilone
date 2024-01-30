@@ -2,7 +2,9 @@
 
 ![repository-open-graph-template 2](https://github.com/Javilone/Javilone/assets/97972589/4219a34b-b69f-4072-ac8d-d4e352cfc151)
 
+Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
 
+Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.
 
 
 <!--
