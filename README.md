@@ -1,4 +1,4 @@
-## ✉️ ¡Hola! Mi nombre es Javier.
+## 👋 ¡Hola! Mi nombre es Javier.
 
 ![repository-open-graph-template 2](https://github.com/Javilone/Javilone/assets/97972589/4219a34b-b69f-4072-ac8d-d4e352cfc151)
 
