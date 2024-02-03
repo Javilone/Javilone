@@ -5,7 +5,7 @@
 <p style="text-align: justify;">
 Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
 
-Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.
+Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.
 </p>
 
 ### Tecnologías.
