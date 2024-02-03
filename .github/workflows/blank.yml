@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Javilone/Javilone
+      - uses: Javilone/Javilone@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIMETOKEN }}
           GH_TOKEN: ${{ secrets.GITHUBPERSONALACCESS }}
