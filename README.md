@@ -8,9 +8,13 @@ Actualmente formo parte de una importante empresa multinacional del sector texti
 Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.
 </p>
 
+### Tecnologías.
+<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
 
-*Perfil en construcción
-![Static Badge](https://img.shields.io/badge/Python-white?logo=Python)
+ 
+### En proceso.
+
+
 
 <!--
 **Javilone/Javilone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
