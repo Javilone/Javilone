@@ -12,7 +12,7 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
 
  
-### En proceso.
+En proceso.
 
 
 
