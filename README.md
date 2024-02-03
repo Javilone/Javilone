@@ -8,6 +8,10 @@ Actualmente formo parte de una importante empresa multinacional del sector texti
 Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.
 </p>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Javilone/Javilone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
