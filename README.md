@@ -7,16 +7,21 @@ Actualmente formo parte de una importante empresa multinacional del sector texti
 Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.
 </p>
 
-- 🌱 Actualmente sigo aprendiendo **Python, HTML, CSS, JavaScript y más.**
+- 🌱 Actualmente continúo programando con **Python** y aprendiendo ***HTML, CSS, JavaScript y más.**
 - 📫 Puedes contactarme en **lopez.lara.javier@gmail.com**
+
+<hr></hr>
+<h3 align="left">Tecnologías:</h3>
+
+<img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
+
 <hr></hr>
 <h3 align="left">Redes sociales: </h3>
 <p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-lopez-lara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-lopez-lara/" height="30" width="40" /></a>
 </p>
-<hr></hr>
-<h3 align="left">Tecnologías: </h3>
-<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
 
+<hr></hr>
+<h3 align="left">🏆 Estadísticas: </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javilone" alt="javilone" /></a> </p>
 
 En proceso.
