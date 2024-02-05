@@ -1,5 +1,4 @@
-## 👋 ¡Hola! Mi nombre es Javier.
-
+<h1 align="left">👋 ¡Hola! Mi nombre es Javier.</h1>
 <img width="948" alt="Captura_de_pantalla_2024-02-02_a_las_12 18 21" src="https://github.com/Javilone/Javilone/assets/97972589/eb82e1f4-08ff-4219-9580-40d713aa495c">
 
 <p style="text-align: justify;">
@@ -8,10 +7,18 @@ Actualmente formo parte de una importante empresa multinacional del sector texti
 Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.
 </p>
 
-### Tecnologías.
+- 🌱 Actualmente sigo aprendiendo **Python, HTML, CSS, JavaScript y más.**
+- 📫 Puedes contactarme en **lopez.lara.javier@gmail.com**
+<hr></hr>
+<h3 align="left">Redes sociales: </h3>
+<p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-lopez-lara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-lopez-lara/" height="30" width="40" /></a>
+</p>
+<hr></hr>
+<h3 align="left">Tecnologías: </h3>
 <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
 
- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javilone" alt="javilone" /></a> </p>
+
 En proceso.
 
 
