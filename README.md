@@ -23,6 +23,7 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 <hr></hr>
 <h3 align="left">🏆 Estadísticas: </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javilone" alt="javilone" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javilone&show_icons=true&theme=merko&locale=en&layout=compact" alt="javilone" /></p>
 
 En proceso.
 
