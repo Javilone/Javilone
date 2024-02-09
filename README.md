@@ -17,7 +17,7 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 
 <hr></hr>
 <h3 align="left">Redes sociales: </h3>
-<p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-lopez-lara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-lopez-lara/" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/javier-lopez-lara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-lopez-lara/" height="30" width="40" /></a>
 </p>
 
 <hr></hr>
