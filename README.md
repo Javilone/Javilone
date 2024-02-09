@@ -24,10 +24,9 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 <h3 align="left">🏆 Estadísticas: </h3>
 
 [![wakatime](https://wakatime.com/badge/user/018d6997-8ac3-4b8f-a7ef-bff77a76bc49.svg)](https://wakatime.com/@018d6997-8ac3-4b8f-a7ef-bff77a76bc49)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javilone&show_icons=true&theme=merko&locale=en&layout=compact" alt="javilone" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javilone)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javilone" alt="javilone" /></a> </p>
-
-
 
 <!--
 **Javilone/Javilone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
