@@ -16,9 +16,17 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 <img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
 
 <hr></hr>
-<h3 align="left">Redes sociales: </h3>
-<p align="left"><a href="https://www.linkedin.com/in/javier-lopez-lara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-lopez-lara/" height="30" width="40" /></a>
-</p>
+<h3 align="left">Redes sociales y perfiles: </h3>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">
+    <img src="https://github.com/Javilone/Javilone/assets/97972589/9ec32888-bec3-4f00-84ae-94c8216bc335)" alt="Descripción de la imagen" width="40">
+  </a>
+</div>
+
 
 <hr></hr>
 <h3 align="left">🏆 Estadísticas: </h3>
