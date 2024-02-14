@@ -15,8 +15,12 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 
 <img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
 
+<h5>Actualmente dedicado a resolver problemas lógicos de retos de programación propuestos por Brais Moure Dev.</h5>
+<h6><p>Puedes encontrar más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a>.</p></h6>
+
 <hr></hr>
-<h3 align="left">Redes sociales y perfiles: </h3>
+<h3 align="left">Redes sociales, perfiles e intereses: </h3>
+
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -27,6 +31,23 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
   </a>
 </div>
 
+<p>
+  
+</p>
+<div></div><p>Como parte de mi interés por el desarrollo personal y profesional, aprendo y estudio siguiendo a importantes creadores de contenido como:</p>
+  <a href="https://www.twitch.tv/mouredev" target="_blank">
+    <img src="https://github.com/Javilone/Javilone/assets/97972589/45391595-08e0-46a0-8567-1f80f5306c3b" alt="Moure Dev Twitch" width="40">
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCWn_0MmgojB711LFX-jaCDQ" target="_blank">
+    <img src="https://github.com/Javilone/Javilone/assets/97972589/0d4db633-7713-4d9a-bada-5135d2856cc7" alt="El Rincon del Dev" width="40">
+  </a>
+
+  <a href="https://victorroblesweb.es" target="_blank">
+    <img src="https://github.com/Javilone/Javilone/assets/97972589/5c7b00ca-a118-4f37-93b1-59ea97720fc2" alt="Victor Robles Web" height="40">
+  </a>
+
+</div>
 
 <hr></hr>
 <h3 align="left">🏆 Estadísticas: </h3>
