@@ -1,22 +1,23 @@
 <h1 align="left">👋 ¡Hola! Mi nombre es Javier.</h1>
 <img width="948" alt="Captura_de_pantalla_2024-02-02_a_las_12 18 21" src="https://github.com/Javilone/Javilone/assets/97972589/eb82e1f4-08ff-4219-9580-40d713aa495c">
 
-<p style="text-align: justify;">
-Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
+<p>Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
 
-Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.
-</p>
+Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.<p>
 
-- 🌱 Actualmente continúo programando con **Python** y aprendiendo ***HTML, CSS, JavaScript y más.**
-- 📫 Puedes contactarme en **lopez.lara.javier@gmail.com**
+- 📫 Puedes contactar conmigo a través de **lopez.lara.javier@gmail.com**
 
 <hr></hr>
 <h3 align="left">Tecnologías:</h3>
 
 <img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
 
-<h5>Actualmente dedicado a resolver problemas lógicos de retos de programación propuestos por Brais Moure Dev.</h5>
-<h6><p>Puedes encontrar más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a>.</p></h6>
+<hr></hr>
+<h3 align="left">Actualmente dedicado a:</h3>
+<p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos de retos de programación propuestos por Brais Moure Dev. <h6>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a></h6>
+<p>🐍 Continúo programando con Python. </p>
+<p>📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a></p>
+
 
 <hr></hr>
 <h3 align="left">Redes sociales, perfiles e intereses: </h3>
