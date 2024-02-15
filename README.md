@@ -56,6 +56,6 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 
 <p align="left"> 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javilone)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javilone)](https://wakatime.com/@javilone)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javilone" alt="javilone" /></a> </p>
