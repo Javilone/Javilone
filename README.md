@@ -1,4 +1,3 @@
-<h1 align="left">👋 ¡Hola! Mi nombre es Javier.</h1>
 <img width="948" alt="Captura_de_pantalla_2024-02-02_a_las_12 18 21" src="https://github.com/Javilone/Javilone/assets/97972589/eb82e1f4-08ff-4219-9580-40d713aa495c">
 
 <p>Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
@@ -6,6 +5,7 @@
 Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continúo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.<p>
 
 - 📫 Puedes contactar conmigo a través de **lopez.lara.javier@gmail.com**
+- <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <hr></hr>
 <h3 align="left">Tecnologías:</h3>
@@ -14,7 +14,7 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 
 <hr></hr>
 <h3 align="left">Actualmente dedicado a:</h3>
-<p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos de retos de programación propuestos por Brais Moure Dev. <h6>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a></h6>
+<p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos de retos de programación en Codewars y los propuestos por Brais Moure Dev. <h6>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a></h6>
 <p>🐍 Continúo programando con Python. </p>
 <p>📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a></p>
 
@@ -59,18 +59,3 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javilone)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javilone" alt="javilone" /></a> </p>
-
-<!--
-**Javilone/Javilone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
