@@ -7,17 +7,18 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 - 📫 Puedes contactar conmigo a través de **lopez.lara.javier@gmail.com**
 - <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+
+<hr></hr>
+<h3 align="left">Actualmente dedicado a:</h3>
+<p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos de retos de programación en Hackerrank y los ejercicios propuestos por Brais Moure Dev. <h6>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a></h6>
+<p>🐍 Continúo programando con Python. </p>
+<p>📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a> y <a href="https://www.udemy.com/user/javier-6570/" target="_blank">Udemy</a></p>
+
+
 <hr></hr>
 <h3 align="left">Tecnologías:</h3>
 
 <img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
-
-<hr></hr>
-<h3 align="left">Actualmente dedicado a:</h3>
-<p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos de retos de programación en Codewars y los propuestos por Brais Moure Dev. <h6>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a></h6>
-<p>🐍 Continúo programando con Python. </p>
-<p>📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a></p>
-
 
 <hr></hr>
 <h3 align="left">Redes sociales, perfiles e intereses: </h3>
