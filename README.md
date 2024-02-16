@@ -29,7 +29,7 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
   </a>
   
   <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">
-    <img src="https://github.com/Javilone/Javilone/assets/97972589/9ec32888-bec3-4f00-84ae-94c8216bc335)" alt="Descripción de la imagen" width="40">
+    <img src="https://github.com/Javilone/Javilone/assets/97972589/9ec32888-bec3-4f00-84ae-94c8216bc335)" alt="Open Webinars" width="40">
   </a>
 </div>
 
