@@ -48,7 +48,7 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
   <a href="https://victorroblesweb.es" target="_blank">
     <img src="https://github.com/Javilone/Javilone/assets/97972589/5c7b00ca-a118-4f37-93b1-59ea97720fc2" alt="Victor Robles Web" height="40">
   </a>
-
+Hector de León, Dotdager o Midudev.
 </div>
 
 <hr></hr>
