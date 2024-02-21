@@ -11,7 +11,7 @@ Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desar
 <hr></hr>
 <h3 align="left">Actualmente dedicado a:</h3>
 <p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos de retos de programación en Hackerrank y los ejercicios propuestos por Brais Moure Dev. <h6>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a></h6>
-<p>🐍 Continúo programando con Python. </p>
+<p>🐍 Continuo programando con Python. </p>
 <p>📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a> y <a href="https://www.udemy.com/user/javier-6570/" target="_blank">Udemy</a></p>
 
 
