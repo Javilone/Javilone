@@ -4,24 +4,27 @@
 
 <p>Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
 
-Con conocimientos de programación, Python, SQL. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continuo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.<p>
+Con conocimientos de programación, Python, SQL, HTML, CSS. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continuo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.<p>
+<ul>
+<li> 📫 Puedes contactar conmigo a través de **lopez.lara.javier@gmail.com**</li>
+<li> <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
+</ul>
 
-- 📫 Puedes contactar conmigo a través de **lopez.lara.javier@gmail.com**
-- <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<hr>
 
-
-<hr></hr>
 <h3 align="left">Actualmente dedicado a:</h3>
-<p>🛜 La creación de mi web, poco a poco, ¡según el tiempo me permite! <a href="https://javilone.github.io" target="_blank">Aqui!</a></p>
-<p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos de retos de programación en Hackerrank y los ejercicios propuestos por Brais Moure Dev. <h6>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a></h6>
+<ul>
+<p>🌐 Desarrollando mi carrera como frontend developer a través de <a href="https://freecodecamp.org" target="_blank">🔥freeCodeCamp</a>, desde donde construí mi <a href="https://javilone.github.io" target="_blank">portfolio</a> al que estoy actualizando activamente con los nuevos proyectos realizados en la plataforma.
+<p>🛜 Pulir mi portfolio, que puedes visitar <a href="https://javilone.github.io" target="_blank">aqui!</a></p>
+<p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos. Con los retos de programación y ejercicios propuestos por Brais Moure Dev. <br>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a>
 <p>🐍 Continuo programando con Python. </p>
 <p>📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a> y <a href="https://www.udemy.com/user/javier-6570/" target="_blank">Udemy</a></p>
+</ul>
 
-
-<hr></hr>
+<hr>
 <h3 align="left">Tecnologías:</h3>
 
-<img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"> <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
+<img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"><span></span><img alt="HTML" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=white"><span></span><img alt="HTML" src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=black"><span></span><img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
 
 <hr></hr>
 <h3 align="left">Redes sociales, perfiles e intereses: </h3>
