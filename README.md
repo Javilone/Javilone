@@ -1,4 +1,6 @@
-<img width="948" alt="Captura_de_pantalla_2024-02-02_a_las_12 18 21" src="https://github.com/Javilone/Javilone/assets/97972589/eb82e1f4-08ff-4219-9580-40d713aa495c">
+![PYTHON](https://github.com/Javilone/Javilone/assets/97972589/97c9ab9f-3fc0-4021-b541-7f8b9820b9d2) 
+
+
 
 <p>Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
 
