@@ -1,4 +1,4 @@
-![PYTHON](https://github.com/Javilone/Javilone/assets/97972589/97c9ab9f-3fc0-4021-b541-7f8b9820b9d2) 
+w![PYTHON](https://github.com/Javilone/Javilone/assets/97972589/97c9ab9f-3fc0-4021-b541-7f8b9820b9d2) 
 
 
 
@@ -6,7 +6,7 @@
 
 Con conocimientos de programación, Python, SQL, HTML, CSS. Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continuo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.<p>
 <ul>
-<li> 📫 Puedes contactar conmigo a través de **lopez.lara.javier@gmail.com**</li>
+<li> 📫 Puedes contactar conmigo a través de <b>lopez.lara.javier@gmail.com</b></li>
 <li> <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
 </ul>
 
