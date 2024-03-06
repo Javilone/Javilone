@@ -24,7 +24,12 @@ Con conocimientos de programación, Python, SQL, HTML, CSS. Estoy comprometido c
 <hr>
 <h3 align="left">Tecnologías:</h3>
 
-<img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white"><span></span><img alt="HTML" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=white"><span></span><img alt="HTML" src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=black"><span></span><img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
+<div>
+  <img alt="Python" src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&labelColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=black">
+  <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-lightgrey?style=for-the-badge&logo=mysql&labelColor=white">
+</div>
 
 <hr></hr>
 <h3 align="left">Redes sociales, perfiles e intereses: </h3>
