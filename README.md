@@ -23,15 +23,6 @@
 <p>📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a> y <a href="https://www.udemy.com/user/javier-6570/" target="_blank">Udemy</a></p>
 </ul>
 <hr>
-<h3 align="left">Tecnologías:</h3>
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=blue&label=%20">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20">
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=black&label=%20">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JAVASCRIPT">
-</div>
-<hr></hr>
 <h3 align="left">Redes sociales, perfiles e intereses: </h3>
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="blank">
