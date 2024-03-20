@@ -1,10 +1,10 @@
 ![PYTHON](https://github.com/Javilone/Javilone/assets/97972589/97c9ab9f-3fc0-4021-b541-7f8b9820b9d2)
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=blue&label=%20">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20">
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=black&label=%20">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&label=%20">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JavaScript&label=%20">
+  <img width=12% alt="Static Badge" src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=blue&label=%20">
+  <img width=10% alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20">
+  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=black&label=%20">
+  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&label=%20">
+  <img width=14% alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JavaScript&label=%20">
 </p>
 <p>Con conocimientos de programación, Python, SQL, HTML, CSS, JavaScript Estoy comprometido con mi desarrollo profesional y tras terminar el grado de dos años, continuo aprendiendo de forma autodidacta, buscando oportunidades para aplicar y mejorar mis habilidades mientras busco un crecimiento continuo en mi carrera.<br><br>
   Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
