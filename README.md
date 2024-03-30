@@ -19,8 +19,8 @@
 <hr>
 <h3 align="left">Actualmente dedicado a:</h3>
 <ul>
-<p>🌐 Desarrollando mi carrera como frontend y backend developer a través de <a href="https://freecodecamp.org" target="_blank">🔥freeCodeCamp</a>, desde donde construí mi <a href="https://javilone.github.io" target="_blank">portfolio</a> al que estoy actualizando activamente con los nuevos proyectos realizados en la plataforma.
-<p>🛜 Pulir mi portfolio, que puedes visitar <a href="https://javilone.github.io" target="_blank">aqui!</a></p>
+<p>🌐 Desarrollando mi carrera como frontend y backend developer a través de <a href="https://freecodecamp.org" target="_blank">🔥freeCodeCamp</a>, desde donde construí mi <a href="https://javilonedev.es" target="_blank">portfolio</a> al que estoy actualizando activamente con los nuevos proyectos realizados en la plataforma.
+<p>🛜 Pulir mi portfolio, que puedes visitar <a href="https://javilonedev.es" target="_blank">aqui!</a></p>
 <p>🔛 Mejorar mi lógica de programación resolviendo problemas lógicos. Con los retos de programación y ejercicios propuestos por Brais Moure Dev. <br>Más información en <a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a>
 <p>🐍 Continuo programando con Python. </p>
 <p>📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a> y <a href="https://www.udemy.com/user/javier-6570/" target="_blank">Udemy</a></p>
