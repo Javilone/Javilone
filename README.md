@@ -1,4 +1,6 @@
-![PYTHON](https://github.com/Javilone/Javilone/assets/97972589/97c9ab9f-3fc0-4021-b541-7f8b9820b9d2)
+<p align="center">
+  <img src="https://github.com/Javilone/Javilone/assets/97972589/47ee164f-8143-4793-912d-24ecb90a0e68" alt="¡Hola!">
+</p>
 <p align="center">
   <img width=12% alt="Static Badge" src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=blue&label=%20">
   <img width=10% alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20">
