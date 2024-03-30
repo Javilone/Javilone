@@ -13,7 +13,7 @@
   Actualmente formo parte de una importante empresa multinacional del sector textil, aportando más de 7 años de experiencia. Aunque valoro la estabilidad y el aprendizaje que he obtenido tras tantos desafíos y oportunidades en la misma, estoy buscando nuevos horizontes para explorar metas en una profesión diferente.
 <p>
 <ul>
-<li> 📫 Puedes contactar conmigo a través de <b>lopez.lara.javier@gmail.com</b></li>
+<li> 📫 Puedes contactar conmigo a través de <b>contacto@javilonedev.es</b></li>
 <li> <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
 </ul>
 <hr>
