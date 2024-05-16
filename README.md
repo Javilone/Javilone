@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Javilone/Javilone/assets/97972589/866320f9-1f74-41ef-8d8f-6cdd26f01222" alt="Frontend dev  HTML  CSS  JavaScript  Node js  Aspiring fullstack">
+<img src="https://github.com/Javilone/Javilone/assets/97972589/20c45969-3119-4b23-8a06-66762704d4a9" alt="Frontend dev  HTML  CSS  JavaScript  Node js  Aspiring fullstack">
 
 </p>
 <p align="center">
