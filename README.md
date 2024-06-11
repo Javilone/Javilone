@@ -3,11 +3,12 @@
 
 </p>
 <p align="center">
-  <img width=12% alt="Static Badge" src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=blue&label=%20">
+  <img width=14% alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JavaScript&label=%20">
   <img width=10% alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20">
   <img width=8% alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=black&label=%20">
+  <img width=12% alt="Static Badge" src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=blue&label=%20">
   <img width=8% alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&label=%20">
-  <img width=14% alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JavaScript&label=%20">
+  
 </p>
 Con conocimientos de programación, Python, SQL, HTML, CSS, JavaScript. Tras completar mis estudios profesionales, he continuado mi desarrollo de forma autodidacta, comprometido con el aprendizaje constante y la mejora de mis habilidades.
 
