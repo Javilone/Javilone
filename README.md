@@ -29,7 +29,7 @@ Estoy emocionado por la oportunidad de aplicar mis habilidades en un entorno pro
 🌐 Desarrollando mi carrera como **frontend developer** junto a los profesionales de <a href="https://lemoncode.net" target="_blank">**Lemoncode**</a>🍋
 
   
-🛜 Pulir mi portfolio, que puedes visitar en <a href="https://javilonedev.es" target="_blank">**https://javilonedev.es**</a>
+🛜 Pulir mi portfolio (Actualmente en remodelación!), que puedes visitar en <a href="https://javilonedev.es" target="_blank">**https://javilonedev.es**</a>
 
 
 🔛 Mejorar mi lógica de programación resolviendo problemas lógicos. Tanto los propuestos por Brais Moure Dev (<a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a>), como los que realizo para el máster de frontend de **Lemoncode**.
