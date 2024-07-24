@@ -42,9 +42,6 @@ Estoy emocionado por la oportunidad de aplicar mis habilidades en un entorno pro
 <a href="https://www.linkedin.com/in/javier-lopez-lara/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://openwebinars.net/@3ve2n82x/" target="_blank">
-  <img src="https://github.com/Javilone/Javilone/assets/97972589/9ec32888-bec3-4f00-84ae-94c8216bc335)" alt="Open Webinars" width="40">
-</a>
 
 Como parte de mi interés por el desarrollo personal y profesional, aprendo y estudio siguiendo a importantes creadores de contenido como:
 
