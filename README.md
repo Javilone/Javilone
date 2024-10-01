@@ -10,15 +10,13 @@
   <img width=8% alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&label=%20">
   
 </p>
-Con conocimientos de programación, Python, SQL, HTML, CSS, JavaScript. Tras completar mis estudios profesionales, he continuado mi desarrollo de forma autodidacta, comprometido con el aprendizaje constante y la mejora de mis habilidades.
+Tras completar mis estudios profesionales, he seguido ampliando mis conocimientos como estudiante del Máster de Frontend en Lemoncode, donde estoy inmerso en el desarrollo web y aprendiendo tecnologías clave como React.js, Vue, Angular, Node.js, UX, Layout, y más.
 
-Actualmente estoy ampliando mis conocimientos y habilidades como estudiante del Máster de Frontend en Lemoncode, donde estoy inmerso en el mundo del desarrollo web y aprendiendo tecnologías punteras como React.js, Vue, Angular, Code.js, UX, Layout y más.
+Mi pasión por la tecnología y el desarrollo de software me impulsa a utilizar mis habilidades para generar valor a quienes me ofrezcan la oportunidad de crecer y contribuir. Me comprometo a mantenerme actualizado con las últimas tendencias tecnológicas, garantizando soluciones innovadoras y de alta calidad.
 
-Motivado por mi pasión por la tecnología y el desarrollo de software, me comprometo a utilizar mis habilidades y conocimientos en beneficio de aquellos que me den la oportunidad de crecer y contribuir.
+Me destaco por mi capacidad para adaptarme rápidamente a nuevos desafíos y trabajar tanto de manera autónoma como en equipo. Estoy listo para aportar valor desde el primer día, contribuyendo al éxito de los proyectos en los que participe.
 
-Mi enfoque en el aprendizaje continuo y la adaptación a las últimas tecnologías me permite mantenerme al tanto de las tendencias del mercado y ofrecer soluciones innovadoras. Además, mi capacidad para trabajar de forma autónoma y en equipo, junto con mi dedicación para superar desafíos, garantiza que pueda aportar valor desde el primer día. 
-
-Estoy emocionado por la oportunidad de aplicar mis habilidades en un entorno profesional y contribuir al éxito de cualquier proyecto o equipo en el que participe.
+Tecnologías: HTML, CSS/Sass, JavaScript, TypeScript, Vite, React.js, Vue, Angular, Node.js
 
 📫 Puedes contactar conmigo a través de: 
 - **contacto@javilonedev.es**
