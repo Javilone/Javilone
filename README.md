@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://github.com/Javilone/Javilone/assets/97972589/20c45969-3119-4b23-8a06-66762704d4a9" alt="Frontend dev  HTML  CSS  JavaScript  Node js  Aspiring fullstack">
+<img src="https://github.com/user-attachments/assets/8907bbd9-f0ac-47ad-83f9-031152faae64" alt="Frontend dev  HTML  CSS  JavaScript  Node js  Aspiring fullstack">
 
 </p>
 <p align="center">
-  <img width=14% alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JavaScript&label=%20">
-  <img width=10% alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20">
-  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=black&label=%20">
-  <img width=12% alt="Static Badge" src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=blue&label=%20">
-  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&label=%20">
+  <img width=14% alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JavaScript&label=%20" />
+    <img width=14% alt="Static Badge" src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=Javascript" />
+  <img width=10% alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20" />
+  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=black&label=%20" />
+  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&label=%20" />
   
 </p>
 Tras completar mis estudios profesionales, he seguido ampliando mis conocimientos como estudiante del Máster de Frontend en Lemoncode, donde estoy inmerso en el desarrollo web y aprendiendo tecnologías clave como React.js, Vue, Angular, Node.js, UX, Layout, y más.
