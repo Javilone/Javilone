@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8907bbd9-f0ac-47ad-83f9-031152faae64" alt="Frontend dev  HTML  CSS  JavaScript  Node js  Aspiring fullstack">
+<img src="https://github.com/user-attachments/assets/217603b2-a543-48e9-b40d-c6203f66b4b1" alt="Frontend dev  HTML  CSS  JavaScript  Node js  Aspiring fullstack">
 
 </p>
 <p align="center">
