@@ -9,8 +9,8 @@
   <img width=10% alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20" />
   <img width=8% alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=black&label=%20" />
   <img width=10% alt="Static Badge" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=SASS&k&label=%20" />
-  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&label=%20" />
-  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite" />
+  <img width=9% alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL" />
+  <img width=9% alt="Static Badge" src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite" />
 
   
 </p>
