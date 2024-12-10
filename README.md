@@ -4,10 +4,14 @@
 </p>
 <p align="center">
   <img width=14% alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JavaScript&label=%20" />
-    <img width=14% alt="Static Badge" src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=Typescript" />
+  <img width=14% alt="Static Badge" src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=Typescript" />
+  <img width=10% alt="Static Badge" src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React" />
   <img width=10% alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=orange&label=%20" />
   <img width=8% alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=black&label=%20" />
+  <img width=10% alt="Static Badge" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=SASS&k&label=%20" />
   <img width=8% alt="Static Badge" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&label=%20" />
+  <img width=8% alt="Static Badge" src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=Vite" />
+
   
 </p>
 Tras completar mis estudios profesionales, he seguido ampliando mis conocimientos como estudiante del Máster de Frontend en Lemoncode, donde estoy inmerso en el desarrollo web y aprendiendo tecnologías clave como React.js, Vue, Angular, Node.js, UX, Layout, y más.
@@ -27,12 +31,12 @@ Tecnologías: HTML, CSS/Sass, JavaScript, TypeScript, Vite, React.js, Vue, Angul
 🌐 Desarrollando mi carrera como **frontend developer** junto a los profesionales de <a href="https://lemoncode.net" target="_blank">**Lemoncode**</a>🍋
 
   
-🛜 Pulir mi portfolio (Actualmente en remodelación!), que puedes visitar en <a href="https://javilonedev.es" target="_blank">**https://javilonedev.es**</a>
+🛜 Pulir mi portfolio, que puedes visitar en <a href="https://javilonedev.es" target="_blank">**https://javilonedev.es**</a>
 
 
 🔛 Mejorar mi lógica de programación resolviendo problemas lógicos. Tanto los propuestos por Brais Moure Dev (<a href="https://github.com/Javilone/Retos_de_programacion" target="_blank">este repositorio</a>), como los que realizo para el máster de frontend de **Lemoncode**.
 
-📚 Mejorar mis conocimientos con <a href="https://openwebinars.net/@3ve2n82x/" target="_blank">Open Webinars</a> y <a href="https://www.udemy.com/user/javier-6570/" target="_blank">Udemy</a>
+📚 Seguir mejorando conocimientos con la ayuda de la IA.
 
 ---
 
